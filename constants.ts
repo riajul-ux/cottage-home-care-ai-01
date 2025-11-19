@@ -7,7 +7,7 @@ export const APP_NAME = "Cottage Home Care AI";
 // ==========================================
 export const AUTHORIZED_USERS: Record<string, string> = {
   "riajul@cottagehomecare.com": "Youremail@12",
-  "user@cottage.com": "cottage2025",
+  "intake@cottagehomecare.com": "Myemail@12",
   "guest@gmail.com": "guestpass"
 };
 

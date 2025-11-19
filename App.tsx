@@ -3,8 +3,13 @@ import { APP_NAME } from './constants';
 import { Message } from './types';
 import { sendMessageToGemini } from './geminiService';
 import MessageBubble from './MessageBubble';
+import Login from './Login';
 
 const App: React.FC = () => {
+  // Login State
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+
+  // Chat State
   const [messages, setMessages] = useState<Message[]>([
     {
       id: 'init-1',
@@ -28,8 +33,10 @@ const App: React.FC = () => {
 
   // Focus input on load
   useEffect(() => {
-    inputRef.current?.focus();
-  }, []);
+    if (isLoggedIn) {
+       inputRef.current?.focus();
+    }
+  }, [isLoggedIn]);
 
   const handleSendMessage = async (e?: React.FormEvent) => {
     if (e) e.preventDefault();
@@ -88,6 +95,11 @@ const App: React.FC = () => {
     }
   };
 
+  // SHOW LOGIN SCREEN IF NOT LOGGED IN
+  if (!isLoggedIn) {
+    return <Login onLogin={() => setIsLoggedIn(true)} />;
+  }
+
   return (
     <div className="flex flex-col h-screen bg-slate-50 text-slate-900 overflow-hidden">
       {/* Header */}
@@ -104,10 +116,15 @@ const App: React.FC = () => {
             <p className="text-xs text-orange-500 font-medium uppercase tracking-wide">Right Home Care For You</p>
           </div>
         </div>
-        <div className="hidden md:block">
-            <span className="text-xs bg-slate-100 text-slate-500 py-1 px-3 rounded-full font-medium">
-                Training Module v2025
-            </span>
+        <div className="flex items-center gap-2">
+             <button onClick={() => setIsLoggedIn(false)} className="text-xs text-slate-500 hover:text-slate-800 underline mr-2">
+                Logout
+            </button>
+            <div className="hidden md:block">
+                <span className="text-xs bg-slate-100 text-slate-500 py-1 px-3 rounded-full font-medium">
+                    Training Module v2025
+                </span>
+            </div>
         </div>
       </header>
 

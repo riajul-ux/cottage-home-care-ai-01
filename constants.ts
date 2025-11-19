@@ -6,7 +6,7 @@ export const APP_NAME = "Cottage Home Care AI";
 // Add as many users as you want here.
 // ==========================================
 export const AUTHORIZED_USERS: Record<string, string> = {
-  "admin@cottage.com": "admin123",
+  "riajul@cottagehomecare.com": "Youremail@12",
   "user@cottage.com": "cottage2025",
   "guest@gmail.com": "guestpass"
 };

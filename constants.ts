@@ -1,5 +1,16 @@
 export const APP_NAME = "Cottage Home Care AI";
 
+// ==========================================
+// USER LOGIN CONFIGURATION
+// Format: "email": "password"
+// Add as many users as you want here.
+// ==========================================
+export const AUTHORIZED_USERS: Record<string, string> = {
+  "admin@cottage.com": "admin123",
+  "user@cottage.com": "cottage2025",
+  "guest@gmail.com": "guestpass"
+};
+
 // Extracted content from the detailed training modules
 export const TRAINING_DATA = `
 COTTAGE HOME CARE SERVICES TRAINING MODULE: INTAKE GUIDELINES

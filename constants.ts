@@ -83,7 +83,7 @@ B. Individuals Age 65+, Disabled, or Blind (Non-MAGI, receiving Medicare)
 6. Types of Medicaid & Codes (Home Care Eligibility)
 * **Medicare Co-Insurance Deductible Only (MSP):** **No** home care. Only covers the Medicare Part B premium. **Resolution:** Re-apply for full Medicaid through the **LDSS**.
 * **EP (Family Planning):** **No** home care. Covers family planning/basic services only.
-* **EP (Family Planning) Quick Removal:** To remove EP, you can call **NYSOH** and ask to change the account details. This may remove EP in **2-3 days**, but the **H-78 code will remain**. <-- NEW ENTRY 
+* **EP (Family Planning) Quick Removal:** To remove EP, you can call **NYSOH** and ask to change the account details. This may remove EP in **2-3 days**, but the **H-78 code will remain and H-78 code removal process remains the same**. <-- NEW ENTRY 
 * **MA Eligible (Medicaid Active):** **Yes** home care. Full Medicaid coverage.
 * **Eligible PCP (Primary Care Provider Program):** **Yes** home care. Services must be authorized by assigned PCP.
 * **Community Coverage with CBLTC (Community-Based Long Term Care):** **YES (Most Common)** home care. Covers in-home LTC via MLTC.

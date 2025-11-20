@@ -57,6 +57,69 @@ Income Limit (2025): Single ($1,800), Married ($2,433).
 Surplus Income (Spend-down): If income exceeds limit, the extra amount is the surplus. Must be paid monthly to keep Medicaid active.
 Pooled Income Trust (PIT): Reduces surplus payment. Contribute $\approx$10% plus fees. Minimum payment **$30/month**, Max **$250/month + $250 signup fee**.
 
+ Medicaid Eligibility & Surplus Income (Community Coverage)
+[cite_start]Eligibility: Income level, Age (65+), Disability status (under 65 requires SSI determination)[cite: 70, 71, 72].
+[cite_start]Coverage: Doctor visits, Hospital, Prescription, Preventive, Long-term care, Mental health[cite: 175].
+[cite_start]Asset Limits (2025, estimated): Single ($31,175 max) [cite: 103][cite_start], Couple ($42,312 max)[cite: 106].
+[cite_start]Income Limit (2025, estimated): Single ($\approx$\$1,800/month) [cite: 62, 102][cite_start], Married ($\approx$\$2,433/month)[cite: 64, 105].
+[cite_start]Surplus Income (Spend-down): If income exceeds limit, the extra amount is the surplus[cite: 111]. [cite_start]Must be paid monthly to keep Medicaid active[cite: 111].
+[cite_start]Pooled Income Trust (PIT): Used in most cases using Trusted surplus solution[cite: 107, 108].
+* [cite_start]Contribution: 10% of the surplus income[cite: 109].
+* [cite_start]Minimum deduction: **$30/month**[cite: 110].
+* [cite_start]Maximum deduction: **$250/month**[cite: 110].
+* [cite_start]Admission Fee: **$250** (one-time)[cite: 109].
+* Example: Single patient income \$2000, limit \$1800, surplus \$200. [cite_start]Patient pays **$30 per month** (minimum deduction)[cite: 111].
+[cite_start]Note: We apply for Medicaid for getting community coverage with Long Term Care[cite: 112].
+
+ Medicaid Application Process
+A. Individuals Under Age 65 (Non-MAGI, not on Medicare)
+* [cite_start]**Who qualifies:** Individuals under 65 not on Medicare [cite: 45][cite_start], low-income adults, children, and some parents [cite: 46] [cite_start](typically MAGI category [cite: 47]).
+* [cite_start]**Where to Apply:** NY State of Health Marketplace (NYSOH)[cite: 50]. [cite_start]Online: nystateofhealth.ny.gov [cite: 51][cite_start], Phone: **1-855-355-5777**[cite: 52].
+* [cite_start]**Documents Needed:** Proof of income (pay stubs, self-employment records) [cite: 56][cite_start], proof of identity and citizenship/immigration status [cite: 57][cite_start], Social Security number [cite: 58][cite_start], proof of address[cite: 59].
+* [cite_start]**Expedited Process for Zero Income:** If member is under 65, has no reported income, and requires immediate home care[cite: 205]. [cite_start]Submit a **Cash Assistance application directly to the Local Department of Social Services (LDSS)**[cite: 207]. [cite_start]Approval automatically links to Regular Medicaid without Marketplace restrictions, accelerating home care access[cite: 208, 209].
+
+B. Individuals Age 65+, Disabled, or Blind (Non-MAGI, receiving Medicare)
+* [cite_start]**Who qualifies:** Age 65 or older [cite: 70][cite_start], OR certified disabled/blind [cite: 71][cite_start], OR receiving Medicare[cite: 72].
+* [cite_start]**Where to Apply:** HRA Medicaid Office (NYC) [cite: 76] [cite_start]or Local Department of Social Services (LDSS) for other counties[cite: 160].
+    * [cite_start]NYC HRA: Mail-in application [cite: 77][cite_start], Drop off at local HRA Medicaid Community Office[cite: 78]. [cite_start]Fax number: **(917) 639-0733**[cite: 81].
+    * [cite_start]Application Form: **DOH-4220 and Supplement-A**[cite: 83].
+    * [cite_start]Long Island - Nassau Office: **60 Charles Lindbergh Blvd #160, Uniondale, NY 11553**, Phone: **(516) 227-8519**[cite: 87, 88].
+    * [cite_start]Suffolk Medicaid Office Service Centers: Riverhead Center: **(631) 852-3500** [cite: 91][cite_start], Coram Center: **(631) 854-2300** [cite: 91][cite_start], Smithtown Center: **(631) 853-8714** [cite: 91][cite_start], South West Center: **(631) 854-6600**[cite: 91].
+    * [cite_start]Cottage provides support to Westchester, Schenectady, and Orange County too[cite: 92].
+* [cite_start]**Documents Required:** Proof of income (Social Security, pension, bank deposits) [cite: 95][cite_start], Asset documentation (bank statements, life insurance, property info) [cite: 96][cite_start], Proof of identity and residency (Citizenship or Immigration card) [cite: 97][cite_start], Medicare card & Social Security number[cite: 98].
+
+ Medicaid Restriction Codes & Transition Support
+* [cite_start]**Medicare Co-Insurance Deductible Only (MSP):** Only covers the Medicare Part B premium [cite: 175] [cite_start]and **does not provide full Medicaid benefits** (e.g., home care, prescriptions)[cite: 175]. [cite_start]**Upgrading:** Re-apply for full Medicaid through the **LDSS** [cite: 178] [cite_start]to transition the case from MSP to full Medicaid[cite: 180].
+* **Essential Plan 4 / Marketplace Restriction (H78) & Family Planning/Non-Emergency Restriction (Immigrants with Less Than 5 Years Residency):**
+    1. [cite_start]Complete **NYIA** (to qualify for long-term care/MLTSS)[cite: 123, 125].
+    2. [cite_start]Contact **NYSOH** to request transition of case to **LDSS**[cite: 127, 128].
+    3. [cite_start]**NYSOH** issues a transition reference number[cite: 132].
+    4. [cite_start]Restriction codes are removed within **one month** following the LDSS's processing of the case [cite: 137][cite_start], granting full Medicaid access (including home care)[cite: 138].
+    * [cite_start]**Documentation:** Valid immigration documentation (e.g., Green Card) [cite: 141][cite_start], Social Security Number (SSN)[cite: 142].
+* [cite_start]**Eligible PCP 65+ with RX Carved-Out Code:** Indicates pharmacy benefits are not fully integrated[cite: 151].
+    * [cite_start]**Pathway 1 (No Income):** Submit a **Cash Assistance application**[cite: 155]. [cite_start]Approval automatically removes all restriction codes (Marketplace and RX carved-out), granting full Medicaid benefits[cite: 156, 157].
+    * [cite_start]**Pathway 2 (Age 65+ with Income/Medicare):** Proceed with a **Regular Medicaid application through the LDSS**[cite: 160]. [cite_start]Concurrently, request **NYSOH to close the Marketplace Medicaid case**[cite: 162]. [cite_start]The new Medicaid from LDSS will reflect full coverage, including prescription drug coverage[cite: 163, 165].
+* [cite_start]**NHTD Medicaid Code 60:** Identifies waiver participation[cite: 255]. If missing/delayed, we:
+    * [cite_start]Review the approval documentation from the **RRDC (Regional Resource Development Center)**[cite: 258, 259].
+    * [cite_start]Coordinate with the Local Department of Social Services (LDSS) or HRA[cite: 261].
+    * [cite_start]Submit follow-up requests to correct or update the Medicaid system[cite: 263].
+
+ Cottage Support Services
+* [cite_start]**Medicaid Renewal Assistance:** Includes proactive monitoring of renewal deadlines [cite: 189][cite_start], assistance with gathering documents (income, address, immigration) [cite: 192, 193, 194, 195][cite_start], and submission via NYSOH or fax/mail to LDSS[cite: 199, 200].
+* [cite_start]**Demographic Change Assistance:** Full support for updating personal information: Address Change [cite: 241][cite_start], County Transfer [cite: 242][cite_start], DOB Corrections [cite: 243][cite_start], Name Changes [cite: 244][cite_start], SSN Updates [cite: 245][cite_start], Phone/Email Changes [cite: 247][cite_start], and Household Composition Updates[cite: 248].
+* **Medicare, SSI, and SSDI Application Assistance:**
+    * [cite_start]**Medicare:** Guide eligible individuals through the enrollment process (Parts A & B) through Social Security Administration (SSA)[cite: 216, 218].
+    * [cite_start]**SSI (Supplemental Security Income):** Help low-income individuals aged 65+ or those with disabilities apply[cite: 219, 220].
+    * [cite_start]**SSDI (Social Security Disability Insurance):** Assist individuals under 65 with qualifying disabilities apply; can lead to Medicare eligibility after 24 months of benefits[cite: 221, 222].
+* [cite_start]**Food Stamp (SNAP) and Public Assistance Support:** Assistance with applying for SNAP (Food Stamps) [cite: 228, 229, 230] [cite_start]and Cash Assistance [cite: 233, 234] [cite_start]through HRA[cite: 225].
+
+ General Medicaid Workflow (Individual turns 65 and needs Medicaid)
+1. [cite_start]Apply for Medicaid (Submit application and required documents to LDSS)[cite: 266, 267].
+2. [cite_start]Wait for response from Medicaid office[cite: 268].
+3. [cite_start]If Medicaid office requests Medicare application, apply for Medicare through SSA[cite: 269, 270].
+4. [cite_start]Submit proof of Medicare application to Medicaid office[cite: 271].
+
+
 5. Types of Medicaid & Codes (Home Care Eligibility)
 * **Medicare Co-Insurance Deductible Only:** **No** home care. Medicaid only pays leftover costs. Needs Community Medicaid with LTC.
 * **EP (Family Planning):** **No** home care. Covers family planning/basic services only.

@@ -133,6 +133,45 @@ B. Individuals Age 65+, Disabled, or Blind (Non-MAGI, receiving Medicare)
 * **NH (Nursing Home):** **No**. In nursing home/rehab. **Resolution:** Discharge papers required.
 * **AL (Assisted Living):** **No**. In assisted living. **Resolution:** Discharge letter required.
 
+21. Job Responsibilities: Case Management
+(For Hold, Hold_PNA, Maximus/NYIA, and CFEEC Failed Cases)
+
+A. Hold & Hold_PNA Cases
+[cite_start]These are patients whose enrollment process is paused but who still require regular outreach and monitoring[cite: 13].
+* [cite_start]**Daily Workflow:** Add each Hold or Hold_PNA case to a dedicated Google Sheet[cite: 17]. [cite_start]Maintain columns for name, contact info, reason on hold, follow-up attempts, last contacted date, and current status[cite: 18].
+* [cite_start]**Patient Outreach:** Make at least two call attempts per day to each patient[cite: 21].
+* [cite_start]**If Unreachable:** Leave a voicemail and send a follow-up text message[cite: 24, 25]. [cite_start]Log all attempts[cite: 26].
+* [cite_start]**Moving to "In Progress":** Follow up with the next responsible team member to ensure continuation of the process[cite: 29].
+* [cite_start]**Reporting:** Prepare and submit a weekly report that includes the number of patients moved from Hold/Hold_PNA to In Progress, the outcome of each In Progress case, and unresponsive patients or those with pending issues[cite: 31, 32, 34, 36].
+
+B. Maximus Cases / NYIA Scheduling
+[cite_start]These patients require coordination of their NYIA assessment through Maximus for MLTC services[cite: 40].
+* [cite_start]**Initial Intake:** Immediately record every new Maximus case in the dedicated tracking sheet with all patient details and status updates[cite: 43].
+* [cite_start]**Initial Contact:** Call the patient to explain the NYIA process[cite: 45]. [cite_start]Ask if they want you to **schedule on their behalf** (take verbal consent, email, and preferred time) or **assistance to contact NYIA directly**[cite: 47].
+* **Handling Assessment Barriers:**
+    * [cite_start]**Past NYIA (within 1 year):** Instruct the patient to clearly state that their **health condition has worsened**, requiring MLTC services now[cite: 50].
+    * [cite_start]**Medicaid Eligibility Codes (e.g., Code 54 or H-78):** Notify the patient that the code removal process may take 6-8 weeks[cite: 53]. [cite_start]Request required documents (SSN award letter or support letter, bank statements if available)[cite: 55, 56]. [cite_start]Provide appropriate forms (Supplement A, support letter form)[cite: 57]. [cite_start]Instruct the patient to submit documents in person at the nearest HRA/DSS office, and notify them to send copies to us so we can send the copy to the insurance[cite: 58, 59].
+* [cite_start]**Pre-Assessment Prep:** Call patients before the scheduled NYIA assessment to **prepare them** on how to interact with the state nurse and clinical evaluator[cite: 63, 65]. [cite_start]Go over expected questions, required documents, and the importance of being honest and detailed[cite: 66].
+* **Post-Assessment Follow-Up:**
+    * [cite_start]Confirm completion of the State Nurse Assessment and Clinical Evaluation[cite: 68, 69, 70].
+    * [cite_start]If missed, help the patient reschedule[cite: 72].
+    * [cite_start]Once confirmed in the HHA system, change patient status to "**MLTC RN**"[cite: 73, 75].
+    * [cite_start]Inform them about **PCA** and tell them the insurance name, and to expect a call from the insurance[cite: 76].
+    * [cite_start]Send the **Physical form** for the PA registration[cite: 77].
+* [cite_start]**If Unreachable:** Email the assigned marketer and change status to Hold, Hold_PNA, or other appropriate status in both internal systems and Google Sheet[cite: 79, 80].
+* [cite_start]**Reporting:** Weekly: Status updates, scheduled vs. completed assessments[cite: 98].
+
+C. CFEEC Failed Cases
+[cite_start]These are patients who did not pass the state assessment[cite: 84].
+* [cite_start]**Follow-Up:** After **1 month** of the failed assessment, reach out to the patient[cite: 86, 87].
+* [cite_start]**Rescheduling:** Offer to reschedule the CFEEC assessment, and prepare and support them as with new NYIA patients[cite: 90, 91].
+* [cite_start]**Reporting:** Monthly: Number rescheduled, completion rates[cite: 98].
+
+D. General Responsibilities (All Cases)
+* [cite_start]Maintain accurate and timely documentation in **Google Sheets and HHA systems**[cite: 94].
+* [cite_start]Practice professional and compassionate communication with all patients[cite: 94].
+* [cite_start]Stay informed of policy or procedural changes from **Maximus, NYIA, and HRA/DSS**[cite: 95].
+* [cite_start]Always confirm understanding with patients (especially elderly, disabled, or non-English speakers) and use interpreter services if needed[cite: 96].
 6. MLTC (Managed Long-Term Care) Plans
 | Insurance Name | Plan Type | Contract | Service Locations | Key Notes |
 | :--- | :--- | :--- | :--- | :--- |

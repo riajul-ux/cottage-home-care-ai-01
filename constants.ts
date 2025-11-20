@@ -229,7 +229,7 @@ STC (Short Term Care), MLTC (Managed Long Term Care), MAP (Medicaid Advantage Pl
 * **Nassau Medicaid Office:** Phone: **(516) 227-8519**
 * **Suffolk Medicaid Office Service Centers:** Riverhead Center: **(631) 852-3500**, Coram Center: **(631) 854-2300**, Smithtown Center: **(631) 853-8714**, South West Center: **(631) 854-6600**
 * **RiverSpring:** Main: **800-370-3600**
-* **CPHL:** Main: **855-270-1600**
+* **CPHL:** Main: **855-270-1600 / 718-215-7001**
 * **HomeFirst (HF):** Enrollment: **718-759-3620 / 866-360-1934**
 * **VNSNY:** Main: **855-282-4642**
 * **CenterLight:** Main: **833-252-2737**

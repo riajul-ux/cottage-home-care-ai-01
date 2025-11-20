@@ -6,9 +6,9 @@ export const APP_NAME = "Cottage Home Care AI";
 // Add as many users as you want here.
 // ==========================================
 export const AUTHORIZED_USERS: Record<string, string> = {
-  "riajul@cottagehomecare.com": "Youremail@12",
-  "intake@cottagehomecare.com": "Myemail@12",
-  "guest@gmail.com": "guestpass"
+  "riajul@cottagehomecare.com": "Youremail@12",
+  "intake@cottagehomecare.com": "Myemail@12",
+  "guest@gmail.com": "guestpass"
 };
 
 // Extracted content from the detailed training modules
@@ -40,8 +40,8 @@ Important Notes:
 3. MLTC Enrollment Journey Steps
 1. The patient must have an active Medicaid.
 2. Complete two assessments (NYIA/Maximus): NYIA: 855-222-8350
-    * State nurse (in-person or Video call) - Takes around 3 hours.
-    * State doctor/Clinician (in-person or Video call) - Takes around 1 hour.
+    * State nurse (in-person or Video call) - Takes around 3 hours.
+    * State doctor/Clinician (in-person or Video call) - Takes around 1 hour.
 3. Receive an outcome letter within 7 business days after completion of NYIA.
 4. Insurance conducts a final assessment to assign care hours.
 5. Once we receive the confirmation that the case will be starting from next month (ex: SOC 5/1/2025), we inform the patient and caregiver to expect a call from our HR team regarding Pa registration.
@@ -49,130 +49,60 @@ Cutoff Dates:
 * MLTC Enrollment: Maximus submissions or transfer calls must be completed by the **20th of every month** to start from next month.
 * MAP Enrollment: Submit by the **25th of every month** to start from next month.
 
-4. Medicaid Eligibility & Surplus Income
+4. Medicaid Eligibility & Surplus Income (Community Coverage)
 Eligibility: Income level, Age (65+), Disability status (under 65 requires SSI determination).
 Coverage: Doctor visits, Hospital, Prescription, Preventive, Long-term care, Mental health.
-Asset Limits: Single ($30,000 max), Property ($1M max).
-Income Limit (2025): Single ($1,800), Married ($2,433).
+Asset Limits (2025, estimated): Single ($31,175 max), Couple ($42,312 max).
+Income Limit (2025, estimated): Single ($\approx$\$1,800/month), Married ($\approx$\$2,433/month).
 Surplus Income (Spend-down): If income exceeds limit, the extra amount is the surplus. Must be paid monthly to keep Medicaid active.
-Pooled Income Trust (PIT): Reduces surplus payment. Contribute $\approx$10% plus fees. Minimum payment **$30/month**, Max **$250/month + $250 signup fee**.
+Pooled Income Trust (PIT): Used in most cases using Trusted surplus solution.
+* Contribution: 10% of the surplus income.
+* Minimum deduction: **$30/month**.
+* Maximum deduction: **$250/month**.
+* Admission Fee: **$250** (one-time).
+* Example: Single patient income \$2000, limit \$1800, surplus \$200. Patient pays **$30 per month** (minimum deduction).
+Note: We apply for Medicaid for getting community coverage with Long Term Care.
 
- Medicaid Eligibility & Surplus Income (Community Coverage)
-[cite_start]Eligibility: Income level, Age (65+), Disability status (under 65 requires SSI determination)[cite: 70, 71, 72].
-[cite_start]Coverage: Doctor visits, Hospital, Prescription, Preventive, Long-term care, Mental health[cite: 175].
-[cite_start]Asset Limits (2025, estimated): Single ($31,175 max) [cite: 103][cite_start], Couple ($42,312 max)[cite: 106].
-[cite_start]Income Limit (2025, estimated): Single ($\approx$\$1,800/month) [cite: 62, 102][cite_start], Married ($\approx$\$2,433/month)[cite: 64, 105].
-[cite_start]Surplus Income (Spend-down): If income exceeds limit, the extra amount is the surplus[cite: 111]. [cite_start]Must be paid monthly to keep Medicaid active[cite: 111].
-[cite_start]Pooled Income Trust (PIT): Used in most cases using Trusted surplus solution[cite: 107, 108].
-* [cite_start]Contribution: 10% of the surplus income[cite: 109].
-* [cite_start]Minimum deduction: **$30/month**[cite: 110].
-* [cite_start]Maximum deduction: **$250/month**[cite: 110].
-* [cite_start]Admission Fee: **$250** (one-time)[cite: 109].
-* Example: Single patient income \$2000, limit \$1800, surplus \$200. [cite_start]Patient pays **$30 per month** (minimum deduction)[cite: 111].
-[cite_start]Note: We apply for Medicaid for getting community coverage with Long Term Care[cite: 112].
-
- Medicaid Application Process
+5. Medicaid Application Process
 A. Individuals Under Age 65 (Non-MAGI, not on Medicare)
-* [cite_start]**Who qualifies:** Individuals under 65 not on Medicare [cite: 45][cite_start], low-income adults, children, and some parents [cite: 46] [cite_start](typically MAGI category [cite: 47]).
-* [cite_start]**Where to Apply:** NY State of Health Marketplace (NYSOH)[cite: 50]. [cite_start]Online: nystateofhealth.ny.gov [cite: 51][cite_start], Phone: **1-855-355-5777**[cite: 52].
-* [cite_start]**Documents Needed:** Proof of income (pay stubs, self-employment records) [cite: 56][cite_start], proof of identity and citizenship/immigration status [cite: 57][cite_start], Social Security number [cite: 58][cite_start], proof of address[cite: 59].
-* [cite_start]**Expedited Process for Zero Income:** If member is under 65, has no reported income, and requires immediate home care[cite: 205]. [cite_start]Submit a **Cash Assistance application directly to the Local Department of Social Services (LDSS)**[cite: 207]. [cite_start]Approval automatically links to Regular Medicaid without Marketplace restrictions, accelerating home care access[cite: 208, 209].
+* **Who qualifies:** Individuals under 65 not on Medicare, low-income adults, children, and some parents (typically MAGI category).
+* **Where to Apply:** NY State of Health Marketplace (NYSOH). Online: nystateofhealth.ny.gov, Phone: **1-855-355-5777**.
+* **Documents Needed:** Proof of income (pay stubs, self-employment records), proof of identity and citizenship/immigration status, Social Security number, proof of address.
+* **Expedited Process for Zero Income:** If member is under 65, has no reported income, and requires immediate home care. Submit a **Cash Assistance application directly to the Local Department of Social Services (LDSS)**. Approval automatically links to Regular Medicaid without Marketplace restrictions, accelerating home care access.
 
 B. Individuals Age 65+, Disabled, or Blind (Non-MAGI, receiving Medicare)
-* [cite_start]**Who qualifies:** Age 65 or older [cite: 70][cite_start], OR certified disabled/blind [cite: 71][cite_start], OR receiving Medicare[cite: 72].
-* [cite_start]**Where to Apply:** HRA Medicaid Office (NYC) [cite: 76] [cite_start]or Local Department of Social Services (LDSS) for other counties[cite: 160].
-    * [cite_start]NYC HRA: Mail-in application [cite: 77][cite_start], Drop off at local HRA Medicaid Community Office[cite: 78]. [cite_start]Fax number: **(917) 639-0733**[cite: 81].
-    * [cite_start]Application Form: **DOH-4220 and Supplement-A**[cite: 83].
-    * [cite_start]Long Island - Nassau Office: **60 Charles Lindbergh Blvd #160, Uniondale, NY 11553**, Phone: **(516) 227-8519**[cite: 87, 88].
-    * [cite_start]Suffolk Medicaid Office Service Centers: Riverhead Center: **(631) 852-3500** [cite: 91][cite_start], Coram Center: **(631) 854-2300** [cite: 91][cite_start], Smithtown Center: **(631) 853-8714** [cite: 91][cite_start], South West Center: **(631) 854-6600**[cite: 91].
-    * [cite_start]Cottage provides support to Westchester, Schenectady, and Orange County too[cite: 92].
-* [cite_start]**Documents Required:** Proof of income (Social Security, pension, bank deposits) [cite: 95][cite_start], Asset documentation (bank statements, life insurance, property info) [cite: 96][cite_start], Proof of identity and residency (Citizenship or Immigration card) [cite: 97][cite_start], Medicare card & Social Security number[cite: 98].
+* **Who qualifies:** Age 65 or older, OR certified disabled/blind, OR receiving Medicare.
+* **Where to Apply:** HRA Medicaid Office (NYC) or Local Department of Social Services (LDSS) for other counties.
+    * NYC HRA: Mail-in application, Drop off at local HRA Medicaid Community Office. Fax number: **(917) 639-0733**.
+    * Application Form: **DOH-4220 and Supplement-A**.
+    * Long Island - Nassau Office: **60 Charles Lindbergh Blvd #160, Uniondale, NY 11553**, Phone: **(516) 227-8519**.
+    * Suffolk Medicaid Office Service Centers: Riverhead Center: **(631) 852-3500**, Coram Center: **(631) 854-2300**, Smithtown Center: **(631) 853-8714**, South West Center: **(631) 854-6600**.
+    * Cottage provides support to Westchester, Schenectady, and Orange County too.
+* **Documents Required:** Proof of income (Social Security, pension, bank deposits), Asset documentation (bank statements, life insurance, property info), Proof of identity and residency (Citizenship or Immigration card), Medicare card & Social Security number.
 
- Medicaid Restriction Codes & Transition Support
-* [cite_start]**Medicare Co-Insurance Deductible Only (MSP):** Only covers the Medicare Part B premium [cite: 175] [cite_start]and **does not provide full Medicaid benefits** (e.g., home care, prescriptions)[cite: 175]. [cite_start]**Upgrading:** Re-apply for full Medicaid through the **LDSS** [cite: 178] [cite_start]to transition the case from MSP to full Medicaid[cite: 180].
-* **Essential Plan 4 / Marketplace Restriction (H78) & Family Planning/Non-Emergency Restriction (Immigrants with Less Than 5 Years Residency):**
-    1. [cite_start]Complete **NYIA** (to qualify for long-term care/MLTSS)[cite: 123, 125].
-    2. [cite_start]Contact **NYSOH** to request transition of case to **LDSS**[cite: 127, 128].
-    3. [cite_start]**NYSOH** issues a transition reference number[cite: 132].
-    4. [cite_start]Restriction codes are removed within **one month** following the LDSS's processing of the case [cite: 137][cite_start], granting full Medicaid access (including home care)[cite: 138].
-    * [cite_start]**Documentation:** Valid immigration documentation (e.g., Green Card) [cite: 141][cite_start], Social Security Number (SSN)[cite: 142].
-* [cite_start]**Eligible PCP 65+ with RX Carved-Out Code:** Indicates pharmacy benefits are not fully integrated[cite: 151].
-    * [cite_start]**Pathway 1 (No Income):** Submit a **Cash Assistance application**[cite: 155]. [cite_start]Approval automatically removes all restriction codes (Marketplace and RX carved-out), granting full Medicaid benefits[cite: 156, 157].
-    * [cite_start]**Pathway 2 (Age 65+ with Income/Medicare):** Proceed with a **Regular Medicaid application through the LDSS**[cite: 160]. [cite_start]Concurrently, request **NYSOH to close the Marketplace Medicaid case**[cite: 162]. [cite_start]The new Medicaid from LDSS will reflect full coverage, including prescription drug coverage[cite: 163, 165].
-* [cite_start]**NHTD Medicaid Code 60:** Identifies waiver participation[cite: 255]. If missing/delayed, we:
-    * [cite_start]Review the approval documentation from the **RRDC (Regional Resource Development Center)**[cite: 258, 259].
-    * [cite_start]Coordinate with the Local Department of Social Services (LDSS) or HRA[cite: 261].
-    * [cite_start]Submit follow-up requests to correct or update the Medicaid system[cite: 263].
-
- Cottage Support Services
-* [cite_start]**Medicaid Renewal Assistance:** Includes proactive monitoring of renewal deadlines [cite: 189][cite_start], assistance with gathering documents (income, address, immigration) [cite: 192, 193, 194, 195][cite_start], and submission via NYSOH or fax/mail to LDSS[cite: 199, 200].
-* [cite_start]**Demographic Change Assistance:** Full support for updating personal information: Address Change [cite: 241][cite_start], County Transfer [cite: 242][cite_start], DOB Corrections [cite: 243][cite_start], Name Changes [cite: 244][cite_start], SSN Updates [cite: 245][cite_start], Phone/Email Changes [cite: 247][cite_start], and Household Composition Updates[cite: 248].
-* **Medicare, SSI, and SSDI Application Assistance:**
-    * [cite_start]**Medicare:** Guide eligible individuals through the enrollment process (Parts A & B) through Social Security Administration (SSA)[cite: 216, 218].
-    * [cite_start]**SSI (Supplemental Security Income):** Help low-income individuals aged 65+ or those with disabilities apply[cite: 219, 220].
-    * [cite_start]**SSDI (Social Security Disability Insurance):** Assist individuals under 65 with qualifying disabilities apply; can lead to Medicare eligibility after 24 months of benefits[cite: 221, 222].
-* [cite_start]**Food Stamp (SNAP) and Public Assistance Support:** Assistance with applying for SNAP (Food Stamps) [cite: 228, 229, 230] [cite_start]and Cash Assistance [cite: 233, 234] [cite_start]through HRA[cite: 225].
-
- General Medicaid Workflow (Individual turns 65 and needs Medicaid)
-1. [cite_start]Apply for Medicaid (Submit application and required documents to LDSS)[cite: 266, 267].
-2. [cite_start]Wait for response from Medicaid office[cite: 268].
-3. [cite_start]If Medicaid office requests Medicare application, apply for Medicare through SSA[cite: 269, 270].
-4. [cite_start]Submit proof of Medicare application to Medicaid office[cite: 271].
-
-
-5. Types of Medicaid & Codes (Home Care Eligibility)
-* **Medicare Co-Insurance Deductible Only:** **No** home care. Medicaid only pays leftover costs. Needs Community Medicaid with LTC.
+6. Types of Medicaid & Codes (Home Care Eligibility)
+* **Medicare Co-Insurance Deductible Only (MSP):** **No** home care. Only covers the Medicare Part B premium. **Resolution:** Re-apply for full Medicaid through the **LDSS**.
 * **EP (Family Planning):** **No** home care. Covers family planning/basic services only.
 * **MA Eligible (Medicaid Active):** **Yes** home care. Full Medicaid coverage.
 * **Eligible PCP (Primary Care Provider Program):** **Yes** home care. Services must be authorized by assigned PCP.
 * **Community Coverage with CBLTC (Community-Based Long Term Care):** **YES (Most Common)** home care. Covers in-home LTC via MLTC.
 * **Community Coverage with No LTC / Code 54:** **No** home care. Covers outpatient but not LTC. **Resolution:** Submit **Supplement A form** and recent **3 months of bank statements**. Takes $\approx$8 weeks. Send referral to **Centers Plan**.
 * **Marketplace Medicaid / Office: H-78:** **Yes (but restricted)**. Managed at state level (NYSOH). Cannot receive home care directly. **Resolution:** Complete NYIA, accept POC with MLTC plan. Coverage shifts to HRA/DSS. Takes $\approx$3+ months (6-8 weeks for plan conversion). Send referral to **Elderplan**.
+* **Eligible PCP 65+ with RX Carved-Out Code:** Indicates pharmacy benefits are not fully integrated. **Resolution Pathways:** (1) Submit **Cash Assistance application** (for no income), or (2) Submit **Regular Medicaid application through the LDSS** (for income/Medicare) and request **NYSOH to close Marketplace case**.
 * **Code 95 (OPWDD):** Developmental disabilities.
+* **NHTD Medicaid Code 60:** Identifies waiver participation. **Resolution:** Review approval from the **RRDC**, coordinate with LDSS/HRA, submit follow-up requests.
 * **S1 (Surplus Pending):** Excess income. Must meet requirement, typically via PIT.
 * **NH (Nursing Home):** **No**. In nursing home/rehab. **Resolution:** Discharge papers required.
 * **AL (Assisted Living):** **No**. In assisted living. **Resolution:** Discharge letter required.
+* **Code 51–56 (Emotional Disturbance):** Requires review/removal via "Expert Medicaid" request.
 
-21. Job Responsibilities: Case Management
-(For Hold, Hold_PNA, Maximus/NYIA, and CFEEC Failed Cases)
+7. Cottage Support Services
+* **Medicaid Renewal Assistance:** Proactive tracking of deadlines, assistance with document collection, and submission via NYSOH or fax/mail to LDSS.
+* **Demographic Change Assistance:** Full support for updating personal information: Address Change, County Transfer, DOB Corrections, Name Changes, SSN Updates, Phone/Email Changes, and Household Composition Updates.
+* **Medicare, SSI, and SSDI Application Assistance:** Guide eligible individuals through enrollment for Medicare Parts A & B (through SSA), SSI (Supplemental Security Income) for low-income seniors/disabled, and SSDI (Social Security Disability Insurance) for under 65 with disabilities.
+* **Food Stamp (SNAP) and Public Assistance Support:** Assistance with applying for SNAP (Food Stamps) and Cash Assistance through HRA.
 
-A. Hold & Hold_PNA Cases
-[cite_start]These are patients whose enrollment process is paused but who still require regular outreach and monitoring[cite: 13].
-* [cite_start]**Daily Workflow:** Add each Hold or Hold_PNA case to a dedicated Google Sheet[cite: 17]. [cite_start]Maintain columns for name, contact info, reason on hold, follow-up attempts, last contacted date, and current status[cite: 18].
-* [cite_start]**Patient Outreach:** Make at least two call attempts per day to each patient[cite: 21].
-* [cite_start]**If Unreachable:** Leave a voicemail and send a follow-up text message[cite: 24, 25]. [cite_start]Log all attempts[cite: 26].
-* [cite_start]**Moving to "In Progress":** Follow up with the next responsible team member to ensure continuation of the process[cite: 29].
-* [cite_start]**Reporting:** Prepare and submit a weekly report that includes the number of patients moved from Hold/Hold_PNA to In Progress, the outcome of each In Progress case, and unresponsive patients or those with pending issues[cite: 31, 32, 34, 36].
-
-B. Maximus Cases / NYIA Scheduling
-[cite_start]These patients require coordination of their NYIA assessment through Maximus for MLTC services[cite: 40].
-* [cite_start]**Initial Intake:** Immediately record every new Maximus case in the dedicated tracking sheet with all patient details and status updates[cite: 43].
-* [cite_start]**Initial Contact:** Call the patient to explain the NYIA process[cite: 45]. [cite_start]Ask if they want you to **schedule on their behalf** (take verbal consent, email, and preferred time) or **assistance to contact NYIA directly**[cite: 47].
-* **Handling Assessment Barriers:**
-    * [cite_start]**Past NYIA (within 1 year):** Instruct the patient to clearly state that their **health condition has worsened**, requiring MLTC services now[cite: 50].
-    * [cite_start]**Medicaid Eligibility Codes (e.g., Code 54 or H-78):** Notify the patient that the code removal process may take 6-8 weeks[cite: 53]. [cite_start]Request required documents (SSN award letter or support letter, bank statements if available)[cite: 55, 56]. [cite_start]Provide appropriate forms (Supplement A, support letter form)[cite: 57]. [cite_start]Instruct the patient to submit documents in person at the nearest HRA/DSS office, and notify them to send copies to us so we can send the copy to the insurance[cite: 58, 59].
-* [cite_start]**Pre-Assessment Prep:** Call patients before the scheduled NYIA assessment to **prepare them** on how to interact with the state nurse and clinical evaluator[cite: 63, 65]. [cite_start]Go over expected questions, required documents, and the importance of being honest and detailed[cite: 66].
-* **Post-Assessment Follow-Up:**
-    * [cite_start]Confirm completion of the State Nurse Assessment and Clinical Evaluation[cite: 68, 69, 70].
-    * [cite_start]If missed, help the patient reschedule[cite: 72].
-    * [cite_start]Once confirmed in the HHA system, change patient status to "**MLTC RN**"[cite: 73, 75].
-    * [cite_start]Inform them about **PCA** and tell them the insurance name, and to expect a call from the insurance[cite: 76].
-    * [cite_start]Send the **Physical form** for the PA registration[cite: 77].
-* [cite_start]**If Unreachable:** Email the assigned marketer and change status to Hold, Hold_PNA, or other appropriate status in both internal systems and Google Sheet[cite: 79, 80].
-* [cite_start]**Reporting:** Weekly: Status updates, scheduled vs. completed assessments[cite: 98].
-
-C. CFEEC Failed Cases
-[cite_start]These are patients who did not pass the state assessment[cite: 84].
-* [cite_start]**Follow-Up:** After **1 month** of the failed assessment, reach out to the patient[cite: 86, 87].
-* [cite_start]**Rescheduling:** Offer to reschedule the CFEEC assessment, and prepare and support them as with new NYIA patients[cite: 90, 91].
-* [cite_start]**Reporting:** Monthly: Number rescheduled, completion rates[cite: 98].
-
-D. General Responsibilities (All Cases)
-* [cite_start]Maintain accurate and timely documentation in **Google Sheets and HHA systems**[cite: 94].
-* [cite_start]Practice professional and compassionate communication with all patients[cite: 94].
-* [cite_start]Stay informed of policy or procedural changes from **Maximus, NYIA, and HRA/DSS**[cite: 95].
-* [cite_start]Always confirm understanding with patients (especially elderly, disabled, or non-English speakers) and use interpreter services if needed[cite: 96].
-6. MLTC (Managed Long-Term Care) Plans
+8. MLTC (Managed Long-Term Care) Plans
 | Insurance Name | Plan Type | Contract | Service Locations | Key Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | CENTERLIGHT (PACE) | PACE | PCA | All 5 boroughs | OTC $170. Age 55+. Excludes chronically ill. Avoid if patient has Medicare. |
@@ -184,7 +114,7 @@ D. General Responsibilities (All Cases)
 | FIDELIS Care | MLTC+HMO | PCA | NYC (all boroughs) | Prefers Queens. |
 | VNSNY Choice | MLTC | PCA | All 5 boroughs | Push as much PCA/HHA. |
 
-7. MAP (Medicare Advantage Plus)
+9. MAP (Medicare Advantage Plus)
 For dual eligible (Medicare + Medicaid).
 Benefits: OTC allowance, Medical coverage, Unlimited Transportation, Overseas coverage ($\$50\text{k}$).
 MAP Plans:
@@ -195,17 +125,17 @@ MAP Plans:
 | HAMASPIK Choice | $215/month | All 5 boroughs |
 | VNSNY Choice | $375/month | All 5 boroughs, Cover Suffolk |
 
-8. Assessments
+10. Assessments
 * **NYIA (New York Independent Assessor) Assessment:** Mandatory independent medical assessment. Valid **1 year**. Scoring: Cannot walk = 10 pts, Bedbound = 15 pts.
 * **MLTC RN Assessment:** Done by the plan nurse after NYIA approval to finalize hours and care plan (POC).
 
-9. Agency Transfer Process
+11. Agency Transfer Process
 1. Collect Patient Demographics.
 2. Obtain Caregiver Info (Certificates needed).
 3. Forward to HR (Caregiver must be certified before authorization).
 4. Contact Member Services (Patient must request transfer, stating current caregiver is unable to provide services and requesting a new, certified aide from Cottage).
 
-10. Plan-to-Plan Transfer
+12. Plan-to-Plan Transfer
 1. Intro Call.
 2. Submit Referral.
 3. Schedule RN Visit.
@@ -216,21 +146,21 @@ MAP Plans:
 8. Compliance Check.
 9. Authorization Follow-up.
 
-11. CHHA (Certified Home Health Agency)
+13. CHHA (Certified Home Health Agency)
 Short-term medical care (nursing/therapy) usually after hospital stay.
 CHHA Plans: Americare, Revival (**Straight Medicare only**), Royal Care, Able Home Care, Prime Care (**Straight Medicare only**), CL CHHA.
 
-12. Private Pay
+14. Private Pay
 Minimum Hours: **NYC (2.5-3 hrs/day)**, **Nassau/Suffolk (4-5 hrs/day)**.
 Rates: **Standard $32/hr**. Extended/Distant $35-$40/hr (Nassau/Suffolk). Queens $30/hr.
 Assessment Fee: **$150** if total hours **< 20 hours**.
 
-13. Important Forms
+15. Important Forms
 * **POA (Power of Attorney):** Financial decisions.
 * **Health Care Proxy:** Medical decisions.
 * **Authorized Representative:** For Medicaid application/process only.
 
-14. Pay Rates & Benefits (2025)
+16. Pay Rates & Benefits (2025)
 | Location | Base Pay | Melody Card | PTO Pay | Total (Without OT) |
 | :--- | :--- | :--- | :--- | :--- |
 | **New York** | $19.10/hr | $0.85/hr | $1.69/hr | **$21.64/hr** |
@@ -239,71 +169,75 @@ Overtime: **1.5x base** for >40 hours.
 Holiday Pay (Worked): **2x pay** for up to 8 hours (New Year, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas).
 PTO: Sick leave (**NY up to 56 hrs**, **Nassau up to 40 hrs**). Vacation (**NY/Nassau up to 40 hrs**).
 
-15. Additional Programs
+17. Additional Programs
 * **OPWDD (Office for People With Developmental Disabilities):** Supports individuals with developmental disabilities (Medicaid code 95).
 * **NHTD (Nursing Home Transition and Diversion) Waiver:** Helps people with disabilities/seniors avoid nursing home placement.
 
-16. Abbreviations (Quick Reference)
-STC (Short Term Care), MLTC (Managed Long Term Care), MAP (Medicaid Advantage Plus), HMO (Health Maintenance Org), POC (Plan of Care), OTC (Over the Counter), PCP (Primary Care Physician), PT (Patient), CG (Caregiver), PTO (Paid time off), CHHA (Certified Home Health Agency), PACE (Programs of All-Inclusive Care for the Elderly), DOH (Department of Health), NYIA (New York Independent Accessor), PA (Personal Assistant), CDPAP/CDPAS (Consumer-directed personal assistance program/ service), D/C (Discharge), HHA (Home health aide), SOC (Start of care), SCA (Single case agreement), PO (Physician’s orders), HF (Home first), EP (Elder plan), CPHL (Centers plan healthy living), HRA (Human Resources Administration), CL (Center light), TC (Transfer call).
+18. Job Responsibilities: Case Management
+(For Hold, Hold_PNA, Maximus/NYIA, and CFEEC Failed Cases)
 
-17. Contact Info (Detailed)
+A. Hold & Hold_PNA Cases
+These are patients whose enrollment process is paused but who still require regular outreach and monitoring.
+* **Daily Workflow:** Add each Hold or Hold_PNA case to a dedicated Google Sheet. Maintain columns for name, contact info, reason on hold, follow-up attempts, last contacted date, and current status.
+* **Patient Outreach:** Make at least two call attempts per day to each patient.
+* **If Unreachable:** Leave a voicemail and send a follow-up text message. Log all attempts.
+* **Moving to "In Progress":** Follow up with the next responsible team member to ensure continuation of the process.
+* **Reporting:** Prepare and submit a weekly report that includes the number of patients moved from Hold/Hold_PNA to In Progress, the outcome of each In Progress case, and unresponsive patients or those with pending issues.
+
+B. Maximus Cases / NYIA Scheduling
+These patients require coordination of their NYIA assessment through Maximus for MLTC services.
+* **Initial Intake:** Immediately record every new Maximus case in the dedicated tracking sheet with all patient details and status updates.
+* **Initial Contact:** Call the patient to explain the NYIA process. Ask if they want you to **schedule on their behalf** (take verbal consent, email, and preferred time) or **assistance to contact NYIA directly**.
+* **Handling Assessment Barriers:**
+    * **Past NYIA (within 1 year):** Instruct the patient to clearly state that their **health condition has worsened**, requiring MLTC services now.
+    * **Medicaid Eligibility Codes (e.g., Code 54 or H-78):** Notify the patient that the code removal process may take 6-8 weeks. Request required documents (SSN award letter or support letter, bank statements if available). Provide appropriate forms (Supplement A, support letter form). Instruct the patient to submit documents in person at the nearest HRA/DSS office, and notify them to send copies to us so we can send the copy to the insurance.
+* **Pre-Assessment Prep:** Call patients before the scheduled NYIA assessment to **prepare them** on how to interact with the state nurse and clinical evaluator. Go over expected questions, required documents, and the importance of being honest and detailed.
+* **Post-Assessment Follow-Up:**
+    * Confirm completion of the State Nurse Assessment and Clinical Evaluation.
+    * If missed, help the patient reschedule.
+    * Once confirmed in the HHA system, change patient status to "**MLTC RN**".
+    * Inform them about **PCA** and tell them the insurance name, and to expect a call from the insurance.
+    * Send the **Physical form** for the PA registration.
+* **If Unreachable:** Email the assigned marketer and change status to Hold, Hold_PNA, or other appropriate status in both internal systems and Google Sheet.
+* **Reporting:** Weekly: Status updates, scheduled vs. completed assessments.
+
+C. CFEEC Failed Cases
+These are patients who did not pass the state assessment.
+* **Follow-Up:** After **1 month** of the failed assessment, reach out to the patient.
+* **Rescheduling:** Offer to reschedule the CFEEC assessment, and prepare and support them as with new NYIA patients.
+* **Reporting:** Monthly: Number rescheduled, completion rates.
+
+D. General Responsibilities (All Cases)
+* Maintain accurate and timely documentation in **Google Sheets and HHA systems**.
+* Practice professional and compassionate communication with all patients.
+* Stay informed of policy or procedural changes from **Maximus, NYIA, and HRA/DSS**.
+* Always confirm understanding with patients (especially elderly, disabled, or non-English speakers) and use interpreter services if needed.
+
+19. Abbreviations (Quick Reference)
+STC (Short Term Care), MLTC (Managed Long Term Care), MAP (Medicaid Advantage Plus), HMO (Health Maintenance Org), POC (Plan of Care), OTC (Over the Counter), PCP (Primary Care Physician), PT (Patient), CG (Caregiver), PTO (Paid time off), CHHA (Certified Home Health Agency), PACE (Programs of All-Inclusive Care for the Elderly), DOH (Department of Health), NYIA (New York Independent Accessor), PA (Personal Assistant), CDPAP/CDPAS (Consumer-directed personal assistance program/ service), D/C (Discharge), HHA (Home health aide), SOC (Start of care), SCA (Single case agreement), PO (Physician’s orders), HF (Home first), EP (Elder plan), CPHL (Centers plan healthy living), HRA (Human Resources Administration), CL (Center light), TC (Transfer call), LDSS (Local Department of Social Services), SSN (Social Security Number), SSI (Supplemental Security Income), SSDI (Social Security Disability Insurance), SNAP (Supplemental Nutrition Assistance Program), RRDC (Regional Resource Development Center).
+
+20. Contact Info (Detailed)
 * **Cottage / Celestial Home Care Services**
     * Phone: **(516) 367-2266**
     * Fax: **(516) 367-1067**
     * License Number: **923L001**
     * Provider ID: **1357744**
     * NPI (National Provider Identifier) Numbers: Cottage: **1003961426**, Celestial: **1275076804**
-* **RiverSpring**
-    * Main: **800-370-3600**
-    * Mudassar (Scheduling): **646-532-1338**
-    * Raj: **929-384-9183**
-    * Kamilla (Intake): **917-880-7851**
-* **CPHL**
-    * Main: **855-270-1600**
-    * Secondary: **718-215-7001**
-    * MAP: **718-697-6055**
-    * FHS Department (Medicaid Recertification): **718-951-2200**
-    * Kainat: **315-849-3780**
-* **HomeFirst (HF)**
-    * Enrollment: **718-759-3620 / 866-360-1934**
-    * Member Service: **718-759-4510**
-    * Providers: **800-353-3765 / 718-921-7772** (Option #4)
-    * Placement: **866-694-3147**
-* **Elderplan MAP**
-    * Enrollment: **718-759-4646**
-    * Member Service: **877-891-6447**
-    * Ann Gerson (Ext 463): **347-289-7542**
-* **Empire**
-    * Main: **855-800-4683**
-    * Intake: **929-946-6500**
-    * Emilia: **516-476-8646**
-* **VNSNY**
-    * Main: **855-282-4642** (Ext 1122 for Rep)
-    * Enrollment: **866-783-1444 / 212-609-4885**
-    * VNS MAP: **855-216-8307** (Coleman)
-    * Assessment Team: **212-216-9915**
-* **CenterLight**
-    * Main: **833-252-2737 / 877-212-8877**
-    * Intake (Nav Khan): **718-652-5799**
-* **Hamaspik**
-    * Main: **855-552-4642**
-    * Shelly: **845-503-0598**
-* **SWHNY (Senior Whole Health)**
-    * Intake: **877-353-0188**
-    * Authorization: **877-353-9819**
-* **Fidelis**
-    * Main: **888-343-3547**
-* **Americare**
-    * Main: **718-535-3100**
-* **HRA**
-    * Main: **718-557-1399**
-    * Alternate: **888-692-6116**
-* **MAXIMUS (NYIA)**
-    * Main: **855-222-8350**
-* **MLTC Complaint**
-    * Main: **866-712-7197**
-* **Translation Service**
-    * Main: **888-322-6671**
+* **NYIA (MAXIMUS):** **855-222-8350**
+* **NY State of Health Marketplace (NYSOH):** **1-855-355-5777**
+* **HRA (NYC):** Main: **718-557-1399**, Alternate: **888-692-6116**, Fax: **(917) 639-0733**
+* **Nassau Medicaid Office:** Phone: **(516) 227-8519**
+* **Suffolk Medicaid Office Service Centers:** Riverhead Center: **(631) 852-3500**, Coram Center: **(631) 854-2300**, Smithtown Center: **(631) 853-8714**, South West Center: **(631) 854-6600**
+* **RiverSpring:** Main: **800-370-3600**
+* **CPHL:** Main: **855-270-1600**
+* **HomeFirst (HF):** Enrollment: **718-759-3620 / 866-360-1934**
+* **VNSNY:** Main: **855-282-4642**
+* **CenterLight:** Main: **833-252-2737**
+* **Hamaspik:** Main: **855-552-4642**
+* **Fidelis:** Main: **888-343-3547**
+* **Americare:** Main: **718-535-3100**
+* **MLTC Complaint:** Main: **866-712-7197**
+* **Translation Service:** Main: **888-322-6671**
 `;
 
 export const SYSTEM_INSTRUCTION = `

@@ -238,6 +238,55 @@ STC (Short Term Care), MLTC (Managed Long Term Care), MAP (Medicaid Advantage Pl
 * **Americare:** Main: **718-535-3100**
 * **MLTC Complaint:** Main: **866-712-7197**
 * **Translation Service:** Main: **888-322-6671**
+
+22. Specialized Case Responsibilities (OPWDD, HMO, LOST Cases)
+
+A. OPWDD (Office for People with Developmental Disability) Cases
+[cite_start]OPWDD patients are recognized by the state as certified disabled, gaining services like SSB/SSI or therapies (PT, OT, Speech)[cite: 13]. [cite_start]We provide HHA services under Article 16 of the state, working hand-in-hand with patients[cite: 14].
+
+* [cite_start]**Case Focus:** Mainly pediatric care and HHA services[cite: 17, 18].
+* [cite_start]**Initial Assistance:** Assist families with Medicaid application, obtaining Medicaid codes, and enrolling in appropriate services[cite: 20, 21, 23].
+* [cite_start]**Geriatric Clients (18+):** Coordinate with **CHHA vendors** for accommodations and connect with **CCS (Care Coordination Services) teams** and medical providers for smooth approval[cite: 24, 25, 26].
+* [cite_start]**Code 95 Approval Process (for HHA services):** To get **CODE-95** reflected on Medicaid, patients need medical paperwork and personal credentials submitted to the state[cite: 31].
+    1.  [cite_start]**Initial Call:** Introduce and explain OPWDD and the purpose of Code 95[cite: 36, 37].
+    2.  [cite_start]**Front Door Videos:** Member watches videos explaining why individuals with disabilities should have Code 95 and takes detailed notes for the Service Coordination team[cite: 39, 40, 41].
+    3.  [cite_start]**Service Coordination:** Member is connected to an organization like **Advance Care Alliance (ACA)** or **Care Design New York**[cite: 43, 44, 45].
+    4.  [cite_start]**Pre-Admission Call:** Organization representative collects member info and explains the OPWDD approval requirements[cite: 48, 50].
+    5.  [cite_start]**Required Documents:** Submit the following to OPWDD[cite: 61]:
+        * [cite_start]**Psychological/Psychoeducational Evaluation:** Must be within 3 years, include FSIQ and adaptive testing[cite: 62, 63, 64].
+        * [cite_start]**Psychosocial Evaluation or Social History Report:** Must be within 1 year[cite: 65, 66].
+        * [cite_start]**Annual Physical Report from PCP:** Must be within 1 year[cite: 67, 68].
+        * [cite_start]HIPAA Release Form, IEP, Autism Evaluation, Birth Certificate, and Medicaid Card/Letter[cite: 59, 69, 70, 71, 72].
+* [cite_start]**Post-Approval (Code 95 on Medicaid):** Case status moves to **OPWDD_REFERRAL SENT**[cite: 73].
+    * [cite_start]**Pediatric Cases (Ages 3-18):** Send referral to **Americare** (Primary Email: pediatricreferrals@americareny.com)[cite: 86, 87]. [cite_start]Americare is responsible for providing the Plan of Care (POC)[cite: 94]. [cite_start]An **RN visits** for a Start of Care (SOC) assessment, and the CHHA/vendor creates the POC outlining approved hours and services[cite: 96, 99, 100].
+    * [cite_start]**Geriatric Cases (Ages 18+):** Send referral to **Able Healthcare** for HHA and therapy services (Speech, OT, PT)[cite: 105, 106, 107, 108, 109].
+    * [cite_start]**Caregiver Certification Support:** Check caregiver status and guide them to certification options if needed[cite: 118, 120].
+
+B. HMO (Health Maintenance Organization) Cases
+[cite_start]HMOs are common plans accepted by NY doctors[cite: 123]. [cite_start]We primarily offer **FIDELIS HMO** services[cite: 128, 142].
+* [cite_start]**Purpose:** HMOs are used to provide short-term care services to patients who **failed their NYIA assessments**[cite: 126, 127, 134]. [cite_start]This allows them to receive some level of home care hours until they can reapply for MLTC[cite: 127].
+* **Pediatric Patients (Under 18):**
+    1.  [cite_start]Explain the Fidelis HMO plan and benefits[cite: 145].
+    2.  [cite_start]Submit the **M11Q form** (doctor's form) to a Fidelis representative[cite: 131, 147, 150].
+    3.  [cite_start]Processing Timeline: Takes a minimum of **30-45 business days** for Fidelis to approve the case with allocated hours[cite: 133, 152].
+* **Adult Patients (Above 18):**
+    * [cite_start]Common Reasons for HMO: Existing doctors are well covered, or the patient **failed the NYIA assessment**[cite: 134, 155, 156].
+    * [cite_start]Required Documents: The **NYIA outcome letter** must be submitted to the State and the Insurance Provider, along with the **M11Q form**[cite: 135, 158, 159, 160, 161].
+    * [cite_start]**MLTC Goal:** Adults who failed NYIA are later encouraged to repeat the NYIA to enroll in MLTC services to be granted more hours[cite: 162].
+
+C. LOST Cases (Unenrolled / Dropped Clients)
+[cite_start]LOST cases refer to members who become inactive or uninterested during the intro calls or enrollment process[cite: 168, 169].
+* [cite_start]**Follow Up:** Follow up on inactive or unresponsive cases[cite: 170].
+* [cite_start]**Resolution:** Help resolve client questions, confusion, enrollment delays, or inactivity[cite: 172, 173].
+* [cite_start]**Reactivation:** Assess each case for potential reactivation [cite: 174] [cite_start]and assist clients in enrolling under Long-Term Care, MAP, or other Medicaid benefits[cite: 176, 177].
+
+23. Cross-Departmental Support & Operational Tasks
+
+* [cite_start]**Cross-Departmental Support (Side Work):** Assist co-workers with case follow-ups, communication maintenance, and gathering additional information to improve approval chances[cite: 183, 184, 186, 187].
+* **Conflict Resolution:** Engage in authorization issues, stuck Medicaid processes, or complex cases. [cite_start]Mediate and troubleshoot with other teams, clients, or agencies[cite: 189, 190, 231].
+* [cite_start]**Operational Improvements & Research:** Focus on identifying and researching system bottlenecks and suggesting improved workflows with state agencies, colleagues, and management to eliminate unnecessary delays[cite: 196, 197, 201, 233, 234].
+* [cite_start]**On-Call & Overflow Support:** Take over introductory or redirected calls when intake staff is overloaded to ensure client flow doesn't stall[cite: 204, 205]. [cite_start]Conduct initial needs assessments to match clients with appropriate programs (PCA, CHHA, MAP)[cite: 206]. * [cite_start]**Client Consent & Quality:** All steps must be advised to the patient, ensuring everything is done with their consent to be benefited[cite: 212, 213].
+* [cite_start]**Reporting:** Submit follow-up updates at the end of the day and week to superiors[cite: 237].
 `;
 
 export const SYSTEM_INSTRUCTION = `

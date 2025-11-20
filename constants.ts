@@ -86,7 +86,7 @@ B. Individuals Age 65+, Disabled, or Blind (Non-MAGI, receiving Medicare)
 * **MA Eligible (Medicaid Active):** **Yes** home care. Full Medicaid coverage.
 * **Eligible PCP (Primary Care Provider Program):** **Yes** home care. Services must be authorized by assigned PCP.
 * **Community Coverage with CBLTC (Community-Based Long Term Care):** **YES (Most Common)** home care. Covers in-home LTC via MLTC.
-* **Community Coverage with No LTC / Code 54:** **No** home care. Covers outpatient but not LTC. **Resolution:** Submit **Supplement A form** and recent **3 months of bank statements**. Takes $\approx$8 weeks. Send referral to **Centers Plan**.
+* **Community Coverage with No LTC / Code 54:** **No** home care. Covers outpatient but not LTC. **Resolution:Submit **MAP751W form**** **Supplement A form** and recent **3 months of bank statements**. Takes $\approx$8 weeks. Send referral to **Centers Plan**.
 * **Marketplace Medicaid / Office: H-78:** **Yes (but restricted)**. Managed at state level (NYSOH). Cannot receive home care directly. **Resolution:** Complete NYIA, accept POC with MLTC plan. Coverage shifts to HRA/DSS. Takes $\approx$3+ months (6-8 weeks for plan conversion). Send referral to **Elderplan**.
 * **Eligible PCP 65+ with RX Carved-Out Code:** Indicates pharmacy benefits are not fully integrated. **Resolution Pathways:** (1) Submit **Cash Assistance application** (for no income), or (2) Submit **Regular Medicaid application through the LDSS** (for income/Medicare) and request **NYSOH to close Marketplace case**.
 * **Code 95 (OPWDD):** Developmental disabilities.

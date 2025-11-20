@@ -43,8 +43,8 @@ Important Notes:
     * State nurse (in-person or Video call) - Takes around 3 hours.
     * State doctor/Clinician (in-person or Video call) - Takes around 1 hour.
 3. Receive an outcome letter within 7 business days after completion of NYIA.
-4. Insurance conducts a final assessment to assign care hours.
-5. Once we receive the confirmation that the case will be starting from next month (ex: SOC 5/1/2025), we inform the patient and caregiver to expect a call from our HR team regarding Pa registration, and also patient must mention that they want the caregiver from Cottage Home Care Services. This is very crucial.
+4. Insurance conducts a final assessment to assign care hours, and also patient must mention that they want the caregiver from Cottage Home Care Services. This is very crucial.
+5. Once we receive the confirmation that the case will be starting from next month (ex: SOC 5/1/2025), we inform the patient and caregiver to expect a call from our HR team regarding Pa registration.
 Cutoff Dates:
 * MLTC Enrollment: Maximus submissions or transfer calls must be completed by the **20th of every month** to start from next month.
 * MAP Enrollment: Submit by the **25th of every month** to start from next month.

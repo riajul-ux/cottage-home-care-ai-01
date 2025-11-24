@@ -289,6 +289,80 @@ C. LOST Cases (Unenrolled / Dropped Clients)
 * [cite_start]**Operational Improvements & Research:** Focus on identifying and researching system bottlenecks and suggesting improved workflows with state agencies, colleagues, and management to eliminate unnecessary delays[cite: 196, 197, 201, 233, 234].
 * [cite_start]**On-Call & Overflow Support:** Take over introductory or redirected calls when intake staff is overloaded to ensure client flow doesn't stall[cite: 204, 205]. [cite_start]Conduct initial needs assessments to match clients with appropriate programs (PCA, CHHA, MAP)[cite: 206]. * [cite_start]**Client Consent & Quality:** All steps must be advised to the patient, ensuring everything is done with their consent to be benefited[cite: 212, 213].
 * [cite_start]**Reporting:** Submit follow-up updates at the end of the day and week to superiors[cite: 237].
+
+24. Managed Care Plan Codes and Plan Types (Version 2024-2)
+Plan Type Abbreviation Key: Partial LTC (Long Term Care: Partial Capitation), LTC Pace (Long Term Care: PACE), Medicaid Adv Plus (Long Term Care: Medicaid Advantage Plus), Mainstream (Medical Assistance), HARP (Health and Recovery Plan), SNP (Special Needs Plan), FIDA-IDD (Fully Integrated Duals Advantage Plan - Intellectual and Developmental Disabilities).
+| Plan Code | Plan Type |
+| :--- | :--- |
+| **92** | Mainstream |
+| **AA** | HARP |
+| **AC** | LTC Pace |
+| **AH** | Partial LTC |
+| **C2** | Mainstream |
+| **C3** | HARP |
+| **C7** | LTC Pace |
+| **CC** | LTC Pace |
+| **CD** | HARP |
+| **CG** | Mainstream |
+| **CH** | LTC Pace |
+| **CM** | Medicaid Adv Plus |
+| **CP** | Partial LTC |
+| **E7** | LTC Pace |
+| **EA** | Medicaid Adv Plus |
+| **ED** | Partial LTC |
+| **EE** | HARP |
+| **EG** | Partial LTC |
+| **EH** | Partial LTC |
+| **FZ** | LTC PACE |
+| **GD** | Partial LTC |
+| **H1** | Partial LTC |
+| **HA** | Medicaid Adv Plus |
+| **HC** | Partial LTC |
+| **HF** | HARP |
+| **HI** | HARP |
+| **HT** | Mainstream |
+| **98** | Mainstream |
+| **99** | Mainstream |
+| **HW** | Mainstream |
+| **HY** | Mainstream |
+| **IC** | Partial LTC |
+| **IE** | Mainstream |
+| **IH** | HARP |
+| **IL** | LTC Pace |
+| **IS** | LTC Pace |
+| **KP** | Mainstream |
+| **KX** | Partial LTC |
+| **MA** | HARP |
+| **MC** | Medicaid Adv Plus |
+| **MH** | Medicaid Adv Plus |
+| **MO** | Mainstream |
+| **MP** | Partial LTC |
+| **MR** | Mainstream |
+| **MT** | HARP |
+| **MV** | Mainstream |
+| **NC** | HARP |
+| **OD** | SNP |
+| **OM** | SNP |
+| **PO** | FIDA-IDD |
+| **SF** | Mainstream |
+| **SP** | Mainstream |
+| **SW** | Partial LTC |
+| **TN** | HARP |
+| **TO** | Mainstream |
+| **TS** | LTC Pace |
+| **UC** | HARP |
+| **UM** | Medicaid Adv Plus |
+| **VA** | Partial LTC |
+| **VC** | Partial LTC |
+| **VL** | Partial LTC |
+| **VM** | Medicaid Adv Plus |
+| **VS** | SNP |
+| **YF** | Medicaid Adv Plus |
+| **YH** | Medicaid Adv Plus |
+| **YL** | Medicaid Adv Plus |
+| **YN** | Medicaid Adv Plus |
+| **YO** | Medicaid Adv Plus |
+
 `;
 
 export const SYSTEM_INSTRUCTION = `

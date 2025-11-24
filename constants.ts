@@ -118,7 +118,7 @@ B. Individuals Age 65+, Disabled, or Blind (Non-MAGI, receiving Medicare)
 
 9. MAP (Medicare Advantage Plus)
 For dual eligible (Medicare + Medicaid).
-Benefits: OTC allowance, Medical coverage, Unlimited Transportation, Overseas coverage ($\$50\text{k}$).
+Benefits: OTC allowance, Medical coverage, Unlimited Transportation, Overseas coverage ($\$50\text{k}$). Includes OTC allowance, Medical coverage, Transportation, they can use otc card to do groccessary shopping and on the back of the card there is a number which they can call to ask for the coverage.
 MAP Plans:
 | Insurance Name | OTC Allowance | Service Locations |
 | :--- | :--- | :--- |

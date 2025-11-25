@@ -97,6 +97,14 @@ B. Individuals Age 65+, Disabled, or Blind (Non-MAGI, receiving Medicare)
 * **NH (Nursing Home):** **No**. In nursing home/rehab. **Resolution:** Discharge papers required.
 * **AL (Assisted Living):** **No**. In assisted living. **Resolution:** Discharge letter required.
 * **Code 51–56 (Emotional Disturbance):** Requires review/removal via "Expert Medicaid" request.
+* **A Joinder Agreement is a document you sign when you join a Pooled Income Trust (PIT).
+Think of it like a membership form that:
+Shows you are officially part of the trust
+Let Medicaid know your income is being deposited into the trust
+Lists the rules and responsibilities of the trust
+In short:
+
+👉   A Joinder Agreement proves the member is using a Pooled Income Trust to protect their income..
 
 7. Cottage Support Services
 * **Medicaid Renewal Assistance:** Proactive tracking of deadlines, assistance with document collection, and submission via NYSOH or fax/mail to LDSS.

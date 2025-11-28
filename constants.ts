@@ -304,6 +304,7 @@ Plan Type Abbreviation Key: Partial LTC (Long Term Care: Partial Capitation), LT
 | :--- | :--- |
 | **92** | Mainstream |
 | **AA** | HARP |
+| **H9** | HARP |
 | **AC** | LTC Pace |
 | **AH** | Partial LTC |
 | **C2** | Mainstream |

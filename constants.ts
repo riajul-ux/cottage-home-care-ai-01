@@ -156,9 +156,59 @@ MAP Plans:
 8. Compliance Check.
 9. Authorization Follow-up.
 
-13. CHHA (Certified Home Health Agency)
-Short-term medical care (nursing/therapy) usually after hospital stay.
-CHHA Plans: Americare, Revival (**Straight Medicare only**), Royal Care, Able Home Care, Prime Care (**Straight Medicare only**), CL CHHA.
+13. CHHA (Certified Home Health Agency) Services
+Definition: CHHA services provide short-term, medically necessary home care based on a physician’s order, usually initiated after hospital/rehab discharge.
+* **Duration:** CHHA services are short-term, typically authorized for approximately **six weeks**, depending on medical needs and clinical progress. Services continue only as long as skilled home care is clinically necessary.
+* **Qualification:** Individuals requiring medically necessary home care with a physician’s referral. Members must have **Medicare** to receive these services, as they are primarily covered under Medicare benefits.
+* **Difference from MLTC/PCW:** CHHA is **short-term** and **medically driven** (Skilled Nursing, Therapy) and covered by **Medicare**. MLTC/PCW is **long-term**, **non-medical** (ADLs), and covered by **Medicaid**.
+
+13.1. CHHA Service Disciplines
+A CHHA provides medically necessary, short-term services based on a nurse’s initial evaluation:
+* **Skilled Nursing:** Includes initial evaluation, wound care, medication management, and ongoing medical monitoring.
+* **Physical Therapy (PT):** Typically scheduled 2 to 3 times per week.
+* **Occupational Therapy (OT):** Generally provided 2 to 3 times per week.
+* **Speech Therapy (ST):** Provided as needed for communication or swallowing.
+* **Home Health Aide (HHA):** May be authorized for up to **4 hours per day, 5 days per week** (varies by evaluation), focusing on limited personal care under a nursing care plan.
+
+13.2. Required Documents for CHHA Processing
+* **Mandatory Documents:**
+    * Facesheet
+    * Medication List (Med List)
+    * MD/NP/PA History & Physical (H+P) – Admission Note
+    * Most Recent Full MD/NP/PA Progress Note
+    * Discharge Summary (if applicable)
+* **Additional Requirement (If Patient Has a Wound):**
+    * Most recent full MD/NP/PA wound care note
+
+13.3. CHHA Workflow – Case Receipt to Safe Discharge
+1.  **Case Received:** Receive referral and documents via email (from hospital/rehab). Reply confirming receipt.
+2.  **Document Review:** Review all mandatory and additional required documents.
+3.  **Insurance & Coverage Verification:** Check Medicare, Medicaid, Medicare Advantage/MAP/HMO eligibility, and confirm coverage area.
+4.  **Select CHHA Provider:** Select based on Insurance type, Geographic location, CHHA network, and Clinical needs.
+5.  **Send Referral to CHHA Provider:** Email the complete referral packet, include the expected discharge date, and request Start of Care (SOC) scheduling.
+6.  **Enter the Case Into the System:** Create two notes: Discharge Note (with hospital/rehab details) and CHHA Referral Note (documenting what was sent).
+7.  **Introductory Call With the Patient/Family:** Share CHHA provider info, explain CHHA short-term skilled service, review patient expectations, explain MLTC/NHTD/Medicaid process if applicable, and confirm contact details.
+8.  **Daily Follow-Up With CHHA Provider:** Follow up daily until SOC is completed. Track SOC date, disciplines ordered, and coverage start date.
+9.  **SOC Completion & Status Update:** Update system status to **Safe Discharge**. Document SOC date and CHHA confirmation.
+10. **If the Patient is Interested in MLTC:** Change case to MLTC processing status and transfer case to the Intake Team/designated person to begin the MLTC enrollment workflow.
+
+13.4. Contracted CHHA List
+| Name | Location | Contracted Person / Contact | Phone Numbers | Email / Fax | Coverage (Counties) | Insurance Accepted |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Americare CHHA** | Kings | Chelsea | 914-830-6057 / (718) 535-3100 | Cgiordano@americareny.com / Cgiordano1987@gmail.com | Westchester, Nassau, NYC (5 boroughs) | Aetna, Straight Medicare |
+| **Revival CHHA** | Kings | Cipora | 718-629-1000 / (347) 666-3447 | intakefax@revivalhhc.org / SGarbowski@revivalhhc.org / cfinestone@revivalhhc.org / JColon@revivalhhc.org | Westchester, Nassau, NYC (5 boroughs) | Straight Medicare, Humana |
+| **Royal Care Certified CHHA** | Queens | Eli / Kereta | (718) 475-1000 / 718-570-6583 / (917) 945-6207 / (917) 334-5820 | intake@royalcertified.nyc / ekalisch@royalcertified.nyc | Westchester, Nassau, NYC (5 boroughs) | Straight Medicare, WellCare MCR, United Healthcare, AARP |
+| **Cassena Care / CL** | Kings | Melissa Gaskin | 718-518-1095 / 201-355-3442 | IntakeTeam2@cassenaathome.com / mgaskin@cassenaathome.com / Intake@cassenaathome.com | NYC, Nassau | Affinity, Agewell MLTC, Amerigroup MCD, Aetna MCR/COMM, BCBS MCR/MCD/COMM, Centersplan MCR/MCD, Elderserve MCD, Fidelis MCR/MCD, HIP MCR/MCD/COMM, Healthfirst MCR/MCD/COMM, Humana MCR, GHI/HIP MCR/MCD, Longevity, Medicare, Medicaid, Oscar, Oxford MCR/COMM, UHC MCR-MCD, Wellcare MCR/MCD, VillageCare MCD/MCR, No-fault (secondary required), Workers Comp |
+| **Able Home Care CHHA** | Kings | Tatiana | 516-464-6141 / (718) 222-1200 | TatianaI@ablehealthcare.com / walterk@ablehealthcare.com | NYC, Nassau & Suffolk County | Cigna, Empire BCBS HealthPlus, Empire BCBS Anthem, Empire BCBS Federal, Emblem, Fidelis, Healthfirst (all lines), Health Plus, Medicaid DSS, Medicare, MetLife Ins (PP), MetLife LTC AARP (PP), NYS Medical Indemnity Fund, Oxford, Partners Health Plan, UHC, UHC Empire Plan, VNS |
+
+13.5. Contracted Rehab Facilities
+| Facility | Contact(s) | Phone Number | Email(s) |
+| :--- | :--- | :--- | :--- |
+| **Swan Lake Rehab** | Charmine Roseau | 631-289-7700 Ext. 332 | croseau.swanlake@gmail.com |
+| **Adira Rehab** | Carmen Recio, Christin Martinez, Amanda Distefano | 914-964-3333 | crecio.adira@gmail.com, cmartinez.adira@gmail.com, Adistefano.adira@gmail.com |
+| **Sprainbrook Rehab** | Loan Arias, Sandra Berkoh | 914-472-3200 Ext. 116 (Loan) | larias.sprainbrook@gmail.com, sberkoh.sprainbrook@gmail.com |
+| **Rego Park Rehab** | Mariel (Social Services), Cassandra Quito, Sapthagiri Iyengar, Alimatu Asumah | 718-592-6400 Ext. 1101 (Mariel) | marielsocialservices@regoparkhealthcare.com, CQuito@regoparkhealthcare.com, SIyengar@regoparkhealthcare.com, AAsumah@regoparkhealthcare.com |
+| **Sands Point Rehab** | Christina Feeney, Avadeen Rosan, Maria Manno | 516-719-9400 | cfeeney.sandspoint@gmail.com, arosan.sandspoint@gmail.com, mmanno.sandspoint@gmail.com |
 
 14. Private Pay
 Minimum Hours: **NYC (2.5-3 hrs/day)**, **Nassau/Suffolk (4-5 hrs/day)**.
